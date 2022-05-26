@@ -1,7 +1,9 @@
+<img src="cover.jpg" style="width: 100%">
+
 # AtenTEC - Technical Articles
 Collection of articles written by AtenTEC members and variety of technologies and subjects.
 
-## Index
+# Table of Contents
 | # | Title | Author
 | - | - | -
 | 1 | [CI/CD pipeline for Google Cloud Functions (GCF) in mono-repo](CICD.for.Google.Cloud.Functions.in.mono.repo.md) | [Hany Mamdouh](https://github.com/hanymamdouh82)
